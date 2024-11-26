@@ -1,0 +1,600 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|d:\\year4\\ki1\\ttlt_net\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmpgh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmpgh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmphieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmphieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmphieuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmphieuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmqldondh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmqldondh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmthongke_doanhso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmthongke_doanhso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmthongkengk_banchay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmthongkengk_banchay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmnhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmnhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmngk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmngk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmloaingk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmloaingk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmlapddh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmlapddh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\controller\\nuocgiaikhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\controller\\nuocgiaikhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmngk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmngk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\controller\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\controller\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\controller\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\controller\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\controller\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\controller\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\model\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\model\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\controller\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\controller\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmnhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmnhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\controller\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\controller\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\controller\\dondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\controller\\dondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\controller\\phieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\controller\\phieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmphieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmphieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmphieuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmphieuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmMain.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmMain.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmMain.cs [Design]",
+              "RelativeToolTip": "btl_ngk\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:08:14.287Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPhieuHen.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuHen.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmPhieuHen.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuHen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuHen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:08:51.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPGH.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPGH.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmPGH.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPGH.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPGH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:50:10.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmNhanVien.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:08:40.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPhieuNo.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuNo.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmPhieuNo.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuNo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuNo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:08:44.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmQLDonDH.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmQLDonDH.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmQLDonDH.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmQLDonDH.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmQLDonDH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:50:32.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmThongKe_DoanhSo.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKe_DoanhSo.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmThongKe_DoanhSo.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKe_DoanhSo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKe_DoanhSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:50:31.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmThongKeNGK_BanChay.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKeNGK_BanChay.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmThongKeNGK_BanChay.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKeNGK_BanChay.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKeNGK_BanChay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:50:54.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Program.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\Program.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Program.cs",
+              "RelativeToolTip": "btl_ngk\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:50:51.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmNGK.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNGK.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmNGK.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNGK.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNGK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:46:18.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmNhaCC.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNhaCC.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmNhaCC.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNhaCC.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNhaCC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:25:44.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmLoaiNGK.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmLoaiNGK.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmLoaiNGK.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmLoaiNGK.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmLoaiNGK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:49:11.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmLapDDH.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmLapDDH.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmLapDDH.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmLapDDH.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmLapDDH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:49:01.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmDangNhap.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:08:12.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmHoaDon.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:09:17.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmKhachHang.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:25:54.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NuocGiaiKhat.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\NuocGiaiKhat.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\Controller\\NuocGiaiKhat.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\NuocGiaiKhat.cs",
+              "RelativeToolTip": "btl_ngk\\Controller\\NuocGiaiKhat.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAD4v0sAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:56:19.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmNGK.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNGK.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmNGK.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNGK.cs",
+              "RelativeToolTip": "btl_ngk\\frmNGK.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAIAwwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:46:19.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmMain.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmMain.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmMain.cs",
+              "RelativeToolTip": "btl_ngk\\frmMain.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAIA9wGoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:09:06.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\NhanVien.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\Controller\\NhanVien.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\NhanVien.cs",
+              "RelativeToolTip": "btl_ngk\\Controller\\NhanVien.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:21:01.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\HoaDon.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\Controller\\HoaDon.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\HoaDon.cs",
+              "RelativeToolTip": "btl_ngk\\Controller\\HoaDon.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:09:38.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\DangNhap.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\Controller\\DangNhap.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\DangNhap.cs",
+              "RelativeToolTip": "btl_ngk\\Controller\\DangNhap.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:15:02.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmDangNhap.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmDangNhap.cs",
+              "RelativeToolTip": "btl_ngk\\frmDangNhap.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:11:20.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NhaCungCap.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\Controller\\NhaCungCap.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\NhaCungCap.cs",
+              "RelativeToolTip": "btl_ngk\\Controller\\NhaCungCap.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAADwv0wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:47:38.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KetNoi.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Model\\KetNoi.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\Model\\KetNoi.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Model\\KetNoi.cs",
+              "RelativeToolTip": "btl_ngk\\Model\\KetNoi.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:05:05.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmNhaCC.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNhaCC.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmNhaCC.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNhaCC.cs",
+              "RelativeToolTip": "btl_ngk\\frmNhaCC.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAD4vzwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:25:46.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\KhachHang.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\Controller\\KhachHang.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\KhachHang.cs",
+              "RelativeToolTip": "btl_ngk\\Controller\\KhachHang.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAywGQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:02:13.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DonDatHang.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\DonDatHang.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\Controller\\DonDatHang.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\DonDatHang.cs",
+              "RelativeToolTip": "btl_ngk\\Controller\\DonDatHang.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:09:32.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmKhachHang.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmKhachHang.cs",
+              "RelativeToolTip": "btl_ngk\\frmKhachHang.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAApwDEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:25:55.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmKhachHang.Designer.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmKhachHang.Designer.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmKhachHang.Designer.cs",
+              "RelativeToolTip": "btl_ngk\\frmKhachHang.Designer.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAkwM0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:08:20.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PhieuHen.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\PhieuHen.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\Controller\\PhieuHen.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\PhieuHen.cs",
+              "RelativeToolTip": "btl_ngk\\Controller\\PhieuHen.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAD4v3YAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:19:11.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmPhieuHen.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuHen.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmPhieuHen.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuHen.cs",
+              "RelativeToolTip": "btl_ngk\\frmPhieuHen.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAawDQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:12:15.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmPhieuNo.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuNo.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmPhieuNo.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuNo.cs",
+              "RelativeToolTip": "btl_ngk\\frmPhieuNo.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAewCIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:09:36.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmHoaDon.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmHoaDon.cs",
+              "RelativeToolTip": "btl_ngk\\frmHoaDon.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAD4v00AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:09:21.089Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 123,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
