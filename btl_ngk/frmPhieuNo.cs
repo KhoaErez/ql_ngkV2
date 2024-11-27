@@ -23,6 +23,10 @@ namespace btl_ngk
 			InitializeComponent();
 			cboMaHD.Text = ma;
 			txtSoTienTra.Text = thanhtien;
+
+			cboMaHD.DataSource = hd.readDL();
+			cboMaHD.ValueMember = "MaHD";
+			cboMaHD.DisplayMember = "MaHD";
 		}
 
 		private void btnExit_Click(object sender, EventArgs e)

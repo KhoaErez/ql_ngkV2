@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|d:\\year4\\ki1\\ttlt_net\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|d:\\year4\\ki1\\ttlt_net\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\controller\\phieuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\controller\\phieuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmpgh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmpgh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\controller\\phieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\controller\\phieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmphieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -23,16 +19,28 @@
       "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmphieuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmqldondh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmqldondh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmthongke_doanhso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmthongke_doanhso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmqldondh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmqldondh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmthongkengk_banchay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmthongkengk_banchay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmpgh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmpgh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,10 +131,6 @@
       "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\controller\\phieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\controller\\phieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmphieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A90C1F2-121B-4667-8D2D-1E00A2F12761}|btl_ngk\\btl_ngk.csproj|solutionrelative:btl_ngk\\frmphieuhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -183,14 +187,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmMain.cs",
-              "RelativeDocumentMoniker": "btl_ngk\\frmMain.cs",
-              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmMain.cs [Design]",
-              "RelativeToolTip": "btl_ngk\\frmMain.cs [Design]",
+              "Title": "PhieuNo.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\PhieuNo.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\Controller\\PhieuNo.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\PhieuNo.cs",
+              "RelativeToolTip": "btl_ngk\\Controller\\PhieuNo.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:08:14.287Z",
+              "WhenOpened": "2024-11-27T02:59:36.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmThongKe_DoanhSo.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKe_DoanhSo.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmThongKe_DoanhSo.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKe_DoanhSo.cs [Design]",
+              "RelativeToolTip": "btl_ngk\\frmThongKe_DoanhSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:50:31.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPhieuNo.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuNo.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmPhieuNo.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuNo.cs [Design]",
+              "RelativeToolTip": "btl_ngk\\frmPhieuNo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:08:44.802Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhieuHen.cs",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\PhieuHen.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\Controller\\PhieuHen.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\PhieuHen.cs",
+              "RelativeToolTip": "btl_ngk\\Controller\\PhieuHen.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAD4v3YAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:19:11.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmQLDonDH.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmQLDonDH.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmQLDonDH.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmQLDonDH.cs [Design]",
+              "RelativeToolTip": "btl_ngk\\frmQLDonDH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:50:32.116Z"
             },
             {
               "$type": "Bookmark",
@@ -198,29 +250,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "frmPhieuHen.cs [Design]",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuHen.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmPhieuHen.cs",
-              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuHen.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuHen.cs [Design]",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuHen.cs [Design]",
+              "RelativeToolTip": "btl_ngk\\frmPhieuHen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T13:08:51.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmPGH.cs [Design]",
-              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPGH.cs",
-              "RelativeDocumentMoniker": "btl_ngk\\frmPGH.cs",
-              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPGH.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPGH.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "frmThongKeNGK_BanChay.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKeNGK_BanChay.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmThongKeNGK_BanChay.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKeNGK_BanChay.cs [Design]*",
+              "RelativeToolTip": "btl_ngk\\frmThongKeNGK_BanChay.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T19:50:10.465Z"
+              "WhenOpened": "2024-11-24T19:50:54.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmMain.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmMain.cs",
+              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmMain.cs [Design]",
+              "RelativeToolTip": "btl_ngk\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:08:14.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "frmNhanVien.cs [Design]",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNhanVien.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmNhanVien.cs",
@@ -231,51 +294,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmPhieuNo.cs [Design]",
-              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuNo.cs",
-              "RelativeDocumentMoniker": "btl_ngk\\frmPhieuNo.cs",
-              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuNo.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuNo.cs [Design]",
+              "DocumentIndex": 9,
+              "Title": "frmPGH.cs [Design]",
+              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPGH.cs",
+              "RelativeDocumentMoniker": "btl_ngk\\frmPGH.cs",
+              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPGH.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPGH.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:08:44.802Z"
+              "WhenOpened": "2024-11-24T19:50:10.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmQLDonDH.cs [Design]",
-              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmQLDonDH.cs",
-              "RelativeDocumentMoniker": "btl_ngk\\frmQLDonDH.cs",
-              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmQLDonDH.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmQLDonDH.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T19:50:32.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmThongKe_DoanhSo.cs [Design]",
-              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKe_DoanhSo.cs",
-              "RelativeDocumentMoniker": "btl_ngk\\frmThongKe_DoanhSo.cs",
-              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKe_DoanhSo.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKe_DoanhSo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T19:50:31.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmThongKeNGK_BanChay.cs [Design]",
-              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKeNGK_BanChay.cs",
-              "RelativeDocumentMoniker": "btl_ngk\\frmThongKeNGK_BanChay.cs",
-              "ToolTip": "D:\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKeNGK_BanChay.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmThongKeNGK_BanChay.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T19:50:54.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Program.cs",
               "RelativeDocumentMoniker": "btl_ngk\\Program.cs",
@@ -287,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "frmNGK.cs [Design]",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNGK.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmNGK.cs",
@@ -298,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "frmNhaCC.cs [Design]",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNhaCC.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmNhaCC.cs",
@@ -309,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "frmLoaiNGK.cs [Design]",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmLoaiNGK.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmLoaiNGK.cs",
@@ -320,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "frmLapDDH.cs [Design]",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmLapDDH.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmLapDDH.cs",
@@ -331,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "frmDangNhap.cs [Design]",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmDangNhap.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmDangNhap.cs",
@@ -342,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "frmHoaDon.cs [Design]",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmHoaDon.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmHoaDon.cs",
@@ -353,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "frmKhachHang.cs [Design]",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmKhachHang.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmKhachHang.cs",
@@ -364,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "NuocGiaiKhat.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\NuocGiaiKhat.cs",
               "RelativeDocumentMoniker": "btl_ngk\\Controller\\NuocGiaiKhat.cs",
@@ -376,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "frmNGK.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNGK.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmNGK.cs",
@@ -388,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "frmMain.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmMain.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmMain.cs",
@@ -400,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "NhanVien.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\NhanVien.cs",
               "RelativeDocumentMoniker": "btl_ngk\\Controller\\NhanVien.cs",
@@ -412,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "HoaDon.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\HoaDon.cs",
               "RelativeDocumentMoniker": "btl_ngk\\Controller\\HoaDon.cs",
@@ -424,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "DangNhap.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\DangNhap.cs",
               "RelativeDocumentMoniker": "btl_ngk\\Controller\\DangNhap.cs",
@@ -436,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "frmDangNhap.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmDangNhap.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmDangNhap.cs",
@@ -448,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "NhaCungCap.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\NhaCungCap.cs",
               "RelativeDocumentMoniker": "btl_ngk\\Controller\\NhaCungCap.cs",
@@ -460,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "KetNoi.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Model\\KetNoi.cs",
               "RelativeDocumentMoniker": "btl_ngk\\Model\\KetNoi.cs",
@@ -472,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "frmNhaCC.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmNhaCC.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmNhaCC.cs",
@@ -484,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "KhachHang.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\KhachHang.cs",
               "RelativeDocumentMoniker": "btl_ngk\\Controller\\KhachHang.cs",
@@ -496,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "DonDatHang.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\DonDatHang.cs",
               "RelativeDocumentMoniker": "btl_ngk\\Controller\\DonDatHang.cs",
@@ -508,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "frmKhachHang.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmKhachHang.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmKhachHang.cs",
@@ -520,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "frmKhachHang.Designer.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmKhachHang.Designer.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmKhachHang.Designer.cs",
@@ -532,19 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "PhieuHen.cs",
-              "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\PhieuHen.cs",
-              "RelativeDocumentMoniker": "btl_ngk\\Controller\\PhieuHen.cs",
-              "ToolTip": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\Controller\\PhieuHen.cs",
-              "RelativeToolTip": "btl_ngk\\Controller\\PhieuHen.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAD4v3YAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:19:11.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "frmPhieuHen.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuHen.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmPhieuHen.cs",
@@ -556,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "frmPhieuNo.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmPhieuNo.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmPhieuNo.cs",
@@ -564,11 +582,12 @@
               "RelativeToolTip": "btl_ngk\\frmPhieuNo.cs",
               "ViewState": "AQIAAE8AAAAAAAAAAAAewCIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:09:36.509Z"
+              "WhenOpened": "2024-11-24T13:09:36.509Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "frmHoaDon.cs",
               "DocumentMoniker": "D:\\Year4\\Ki1\\TTLT_NET\\btl_qlngk\\btl_qlngk\\btl_ngk\\btl_ngk\\frmHoaDon.cs",
               "RelativeDocumentMoniker": "btl_ngk\\frmHoaDon.cs",

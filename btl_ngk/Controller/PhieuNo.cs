@@ -34,18 +34,32 @@ namespace btl_ngk.Controller
 
 		public void themDL(string maPhieuTN,DateTime NgayTra, int SoTienTra, string MaHD)
 		{
-			string insertPTN = "insert into PhieuTraNo values(@maPhieuTN, @NgayTra, @SoTienTra, @MaHD)";
-			List<SqlParameter> parameters = new List<SqlParameter>
+			if(!checkMaTrung(maPhieuTN))
 			{
-				new SqlParameter("@maPhieuTN", maPhieuTN),
-				new SqlParameter("@NgayTra", NgayTra),
-				new SqlParameter("@SoTienTra", SoTienTra),
-				new SqlParameter("@MaHD", MaHD)
-			};
-			kn.CUD(insertPTN, parameters);  // Thêm mới phiếu trả nợ
-			MessageBox.Show("Thêm thành công", "Thông báo");
+				string insertPTN = "insert into PhieuTraNo values(@maPhieuTN, @NgayTra, @SoTienTra, @MaHD)";
+				List<SqlParameter> parameters = new List<SqlParameter>
+				{
+					new SqlParameter("@maPhieuTN", maPhieuTN),
+					new SqlParameter("@NgayTra", NgayTra),
+					new SqlParameter("@SoTienTra", SoTienTra),
+					new SqlParameter("@MaHD", MaHD)
+				};
+				kn.CUD(insertPTN, parameters);  // Thêm mới phiếu trả nợ
+				MessageBox.Show("Thêm thành công", "Thông báo");
+			}
+			else
+			{
+				MessageBox.Show("Mã phiếu trả nợ đã tồn tại");
+			}
 		}
 
+		public bool checkMaTrung(string ma)
+		{
+			string sql = "select count(*) from PhieuTraNo where MaPhieuTraNo = @ma";
+			List<SqlParameter> parameters = new List<SqlParameter>();
+			parameters.Add(new SqlParameter("@ma",ma));
+			return kn.kiemTraMaTrung(sql, parameters);
+		}
 		public void suaDL(string MaPhieuTraNo, DateTime NgayTra, int SoTienTra, string MaHD)
 		{
 			string updatePTN = "update PhieuTraNo set NgayTra = @NgayTra, SoTienTra = @SoTienTra, MaHD = @MaHD where MaPhieuTraNo = @MaPhieuTraNo";
